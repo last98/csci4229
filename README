@@ -1,0 +1,30 @@
+Final Project 
+Lauren Strand
+CSCI 4229
+
+Execute final.c
+
+Key bindings
+	x/X	Toggle axes on/off
+	f/F	Switches first person perspective on/off
+	-/+	Changes field of view 
+	v	Toggle light movement
+	</>	After pressing v, </> moves the light
+	[/]	Changes light elevation
+	b/B	Decreases/increases ambient level
+	n/N	Decreases/increases diffuse level
+	p/P	Decreases/increases specular level
+	e/E	Decreases/increases emission level
+	i/I	Decreases/increases shininess level
+	w/a/s/d/f	In first person view, changes view angle
+	arrows	Change view angle
+	0	Reset view angle
+	1	View with planter in foreground
+	2	View with leafy plant
+	3	Overhead view with structural beams visible
+	4	View with aloe in foreground and ceramic pots in back
+	Esc	Exit
+
+This assignment took me about 75-80 hours.
+
+For every plant in the greenhouse scene, I carefully positioned each leaf in 3D space and was very meticulous about the translation, rotation, and scaling. I have a lot of variety of plants placed around the room. For all the geometry, I had to adjust the texture coordinates so the texture fit accordingly. I also put a lot of thought into the color scheme so everything in the scene flows together well. During this project, I experimented with creating unique geometry to draw the leaves of plants. The views 0-4 are ones I'm most proud of and show I met the requirements as stated in my project proposal, as well as some of the stretch goals. 
